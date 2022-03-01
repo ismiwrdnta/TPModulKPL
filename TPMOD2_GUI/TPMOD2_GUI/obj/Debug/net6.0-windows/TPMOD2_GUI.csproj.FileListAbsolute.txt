@@ -1,0 +1,17 @@
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\bin\Debug\net6.0-windows\TPMOD2_GUI.exe
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\bin\Debug\net6.0-windows\TPMOD2_GUI.deps.json
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\bin\Debug\net6.0-windows\TPMOD2_GUI.runtimeconfig.json
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\bin\Debug\net6.0-windows\TPMOD2_GUI.dll
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\bin\Debug\net6.0-windows\TPMOD2_GUI.pdb
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\TPMOD2_GUI.csproj.AssemblyReference.cache
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\TPMOD2_GUI.Form1.resources
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\TPMOD2_GUI.csproj.GenerateResource.cache
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\TPMOD2_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\TPMOD2_GUI.AssemblyInfoInputs.cache
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\TPMOD2_GUI.AssemblyInfo.cs
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\TPMOD2_GUI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\TPMOD2_GUI.dll
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\refint\TPMOD2_GUI.dll
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\TPMOD2_GUI.pdb
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\TPMOD2_GUI.genruntimeconfig.cache
+C:\Users\ASUS_A409U\source\repos\TPModulKPL\TPMOD2_GUI\TPMOD2_GUI\obj\Debug\net6.0-windows\ref\TPMOD2_GUI.dll
